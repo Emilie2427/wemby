@@ -1,0 +1,60 @@
+# Liste de vidéos YouTube pour le corpus (à utiliser avec : yt-dlp -a videos_basket.txt)
+# Les lignes commençant par # sont ignorées par yt-dlp.
+
+# === 1. Sources massives de ralentis NBA (gestes de référence) ===
+# Chaîne NBA 30 VIDS (nombreux ralentis de tir par joueur)
+https://www.youtube.com/channel/UCuZkS5BokfM8_Dz7TxEBvEQ/videos
+# Playlist "Shooting Form Slow Motion"
+https://www.youtube.com/playlist?list=PLYvsp6sUJA5M2NTphmmeGWRwz0hUlqV2_
+
+# === 2. Ralentis NBA individuels ===
+https://www.youtube.com/watch?v=GVv7_K519dU
+https://www.youtube.com/watch?v=Z7afVQ7C8e8
+https://www.youtube.com/watch?v=azm2YIMUcVM
+https://www.youtube.com/watch?v=3_siqfV_3zw
+https://www.youtube.com/watch?v=eETSPnYf85E
+https://www.youtube.com/watch?v=jVjG68EL71o
+https://www.youtube.com/watch?v=i27VBX5M740
+https://www.youtube.com/watch?v=AF2AlZ5HZzw
+https://www.youtube.com/watch?v=zb1trdDYzHo
+https://www.youtube.com/shorts/qwfmvysRodk
+https://www.youtube.com/shorts/ToPIChjXACo
+
+# === 3. Lancers francs de profil ===
+https://www.youtube.com/watch?v=kaYC4aBWj-8
+https://www.youtube.com/watch?v=GlzUcpBl63c
+https://www.youtube.com/watch?v=0Qt5uGdxC5s
+https://www.youtube.com/watch?v=sjBv3CYduiQ
+https://www.youtube.com/watch?v=pDyVswKI2iA
+
+# === 4. Gestes incorrects chez les pros (exemples d'erreurs) ===
+https://www.youtube.com/watch?v=H5bv03MCL1A
+https://www.youtube.com/watch?v=v3IUNJ9vDlo
+https://www.youtube.com/watch?v=a-o5HFNCX7Y
+https://www.youtube.com/watch?v=iqYS95E2wdw
+https://www.youtube.com/watch?v=OZOSkfvPh4s
+https://www.youtube.com/watch?v=O2_uY_o3wMw
+
+# === 5. Tutoriels de correction (avant/après, erreurs amateurs) ===
+https://www.youtube.com/watch?v=-fnyuLKhssQ
+https://www.youtube.com/watch?v=ozgdF2WEyh0
+https://www.youtube.com/watch?v=Ph6-w-LCpYo
+https://www.youtube.com/watch?v=QEUtkE6xTX0
+https://www.youtube.com/watch?v=eYvo-afyy98
+https://www.youtube.com/watch?v=W2Xkw0oDl7g
+https://www.youtube.com/watch?v=KMYRMyMZPIs
+https://www.youtube.com/watch?v=hYaLYGmS61A
+https://www.youtube.com/watch?v=td8VLJPnqdg
+https://www.youtube.com/watch?v=RMXqipmZPFQ
+https://www.youtube.com/watch?v=3--urvppqtU
+
+# === 6. Séances d'entraînement complètes (caméra souvent fixe, beaucoup de tirs) ===
+https://www.youtube.com/watch?v=pq4DdAqX3yg
+https://www.youtube.com/watch?v=-7DVDwgqxyw
+https://www.youtube.com/watch?v=jXX_dJTffYM
+https://www.youtube.com/watch?v=yfsE8CUzUeQ
+https://www.youtube.com/watch?v=ND-jq2SVbnU
+https://www.youtube.com/watch?v=WYHQFeM5P8A
+https://www.youtube.com/watch?v=gPoSIt5EBbU
+https://www.youtube.com/watch?v=WvUSs6yTltE
+https://www.youtube.com/watch?v=MAvdDUUTLB4
